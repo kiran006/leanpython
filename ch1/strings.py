@@ -9,9 +9,10 @@ len(a)-1
 b[5:]
 
 ##2nd
-
 a="hello \n"
-print a
+b=a.strip("\n")
+b
+
 
 
 ##3rd q's
