@@ -1,0 +1,5 @@
+ this program, we first define a string of punctuations. 
+Then, we iterate over the provided string using a for loop. 
+In each iteration, we check if the character is a punctuation mark or not using the membership test.
+We have an empty string to which we add (concatenate) the character if it is not a punctuation.
+ Finally, we display the cleaned up string.
